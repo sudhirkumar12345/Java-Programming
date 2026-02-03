@@ -1,6 +1,6 @@
 // write a program to print area of circle
 import java.util.Scanner;
-public class userinput {
+public class AreaOFCircle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter radis ");
@@ -12,3 +12,4 @@ public class userinput {
 
     }
 }
+
