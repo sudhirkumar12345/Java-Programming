@@ -1,3 +1,4 @@
+// Sum of two integer number from input through the keyword
 import java.util.Scanner;
 public class sum {
     public static void main(String[] args) {
@@ -11,3 +12,4 @@ public class sum {
 
     }
 }
+
